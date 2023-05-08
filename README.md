@@ -2,5 +2,5 @@
 
 - - - - 
 # Install dependency #
-## open terminal##
+open terminal
     npm install
